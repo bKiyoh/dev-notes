@@ -1,4 +1,3 @@
----
 # 🧱 SOLID原則
 
 ## 🧱 S：単一責任の原則（Single Responsibility Principle）
