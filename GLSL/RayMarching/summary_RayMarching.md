@@ -140,4 +140,4 @@ for ( int i = 0; i < 64; i++ ){
 ```
 
 イメージシミュレーション
-<img src="./HowRaymarcherWorks.png" alt="HowRaymarcherWorks" style="max-width: 400px; width: 100%;">
+<img src="./HowRaymarcherWorks.png" alt="HowRaymarcherWorks" style="width: auto;" height="400">
