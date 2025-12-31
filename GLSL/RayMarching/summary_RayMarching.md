@@ -140,6 +140,6 @@ for ( int i = 0; i < 64; i++ ){
     もし |最短距離| < 0.001 なら 終了
 ```
 
-イメージシミュレーション
+イメージシミュレーション<br>
 <img src="./HowRaymarcherWorks.png" alt="HowRaymarcherWorks" style="width: auto; height: 400px;">
 https://x.com/motions_work/status/694898149622550528?s=20
