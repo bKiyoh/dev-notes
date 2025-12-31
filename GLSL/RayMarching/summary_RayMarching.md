@@ -88,7 +88,8 @@ https://iquilezles.org/articles/distfunctions/
 という操作を繰り返す。
 
 具体的な手順のイメージはこちらです
-<img src="./alg1.png" alt="アルゴリズム図" style="max-width: 400px; width: 100%;">
+<img src="./alg1.png" alt="アルゴリズム図" style="width: auto; height:400px">
+https://www.slideshare.net/slideshow/threejs-58238484/58238484#45
 
 詳細は下記スライドリンク#36~#45 をご覧ください。
 https://www.slideshare.net/slideshow/threejs-58238484/58238484#36
@@ -140,4 +141,5 @@ for ( int i = 0; i < 64; i++ ){
 ```
 
 イメージシミュレーション
-<img src="./HowRaymarcherWorks.png" alt="HowRaymarcherWorks" style="width: auto;" height="400">
+<img src="./HowRaymarcherWorks.png" alt="HowRaymarcherWorks" style="width: auto; height: 400px;">
+https://x.com/motions_work/status/694898149622550528?s=20
