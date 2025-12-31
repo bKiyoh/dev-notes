@@ -88,7 +88,7 @@ https://iquilezles.org/articles/distfunctions/
 という操作を繰り返す。
 
 具体的な手順のイメージはこちらです
-![シェーダだけで世界を創る！three.jsによるレイマーチング#45](./alg1.png)
+<img src="./alg1.png" alt="アルゴリズム図" style="max-width: 400px; width: 100%;">
 
 詳細は下記スライドリンク#36~#45 をご覧ください。
 https://www.slideshare.net/slideshow/threejs-58238484/58238484#36
@@ -140,5 +140,4 @@ for ( int i = 0; i < 64; i++ ){
 ```
 
 イメージシミュレーション
-![How Raymarcher Works](./HowRaymarcherWorks.png)
-https://x.com/motions_work/status/694898149622550528?s=20
+<img src="./HowRaymarcherWorks.png" alt="HowRaymarcherWorks" style="max-width: 400px; width: 100%;">
